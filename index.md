@@ -1,7 +1,13 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. My name is Ana, a senior undergraduta biomedical engineering student who is trying to be introduced to Machine Learning and Artificial Intelligence! By writing a blog I am trying to make a commitment to myself, challenge myself to publish whatever I write and (hopefully) sharing something useful. 
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
+## Current goal
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+The whole reason I started this blog is because I was introduced to the [fast.ai](https://www.fast.ai) course by my partner (who actually knows something about ML). My current research project has allowed me the opportunity to dive deeper into the application of ML in biomedical engineering and is my main motivation to learn about these topics. 
+
+I will attempt to write my goals and the progress will ideally be reflected in the following posts.
+
+(https://progress-bar.dev/<10>?title=<fast.ai course>)
+(https://progress-bar.dev/<10>?title=<Neural Networks and Deep Learning Coursera Course>)
+(https://progress-bar.dev/<10>?title=<TabNet literature>)
