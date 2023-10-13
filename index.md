@@ -8,6 +8,6 @@ The whole reason I started this blog is because I was introduced to the [fast.ai
 
 I will attempt to write my goals and the progress will ideally be reflected in the following posts.
 
-(https://progress-bar.dev/<10>?title=<fast.ai course>)
-(https://progress-bar.dev/<10>?title=<Neural Networks and Deep Learning Coursera Course>)
-(https://progress-bar.dev/<10>?title=<TabNet literature>)
+![50%](https://progress-bar.dev/50)
+![50%](https://progress-bar.dev/50)
+![50%](https://progress-bar.dev/50)
