@@ -1,4 +1,4 @@
-Hello and welcome to this blog. My name is Ana, a senior undergraduta biomedical engineering student who is trying to be introduced to Machine Learning and Artificial Intelligence! By writing a blog I am trying to make a commitment to myself, challenge myself to publish whatever I write and (hopefully) sharing something useful. 
+Hello and welcome to this blog. My name is Ana, a senior undergradute biomedical engineering student who is trying to be introduced to Machine Learning and Artificial Intelligence! By writing a blog I am trying to make a commitment to myself, challenge myself to publish whatever I write and (hopefully) sharing something useful. 
 
 This one goes for the girl who once believed she could make it into big places like MIT... 
 
