@@ -4,7 +4,7 @@ This one goes for the girl who once believed she could make it into big places l
 
 ![Poorly photoshopped image of myself in front of the MIT building](images/mit.jpg)
 
-## Current goal
+## Current goals
 
 The whole reason I started this blog is because I was introduced to the [fast.ai](https://www.fast.ai) course by my partner (who actually knows something about ML). My current research project has allowed me the opportunity to dive deeper into the application of ML in biomedical engineering and is my main motivation to learn about these topics. 
 
