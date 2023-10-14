@@ -2,7 +2,7 @@ Hello and welcome to this blog. My name is Ana, a senior undergradute biomedical
 
 This one goes for the girl who once believed she could make it into big places like MIT... 
 
-![Poorly photoshopped image of myself in front of the MIT building](images/logo.png)
+![Poorly photoshopped image of myself in front of the MIT building](images/mit.jpg)
 
 ## Current goals
 
