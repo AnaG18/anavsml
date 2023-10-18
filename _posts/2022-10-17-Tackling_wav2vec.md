@@ -24,3 +24,5 @@ I have found very illustrative (obviously) blog that breaks down the essential c
 [Original paper](https://proceedings.neurips.cc/paper/2020/hash/92d1e1eb1cd6f9fba3227870bb6d7f07-Abstract.html)
 
 Helpful code implementations can be found in [Hugging Face Wav2Vec implementation](https://huggingface.co/docs/transformers/model_doc/wav2vec2#transformers.Wav2Vec2ForPreTraining)
+
+A very useful [GitHub repo](https://github.com/khanld/Wav2vec2-Pretraining) that details the step-by-step of pre-training Wav2Vec with your own data. 
