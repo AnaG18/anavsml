@@ -24,7 +24,7 @@ The key things I have understood it has are: *Batch Normalization*, *Feature tra
 
 A very simple diagram the flow of data through TabNet: 
 
-Raw Input Data &rarr; Batch Normalization &rarr; Feature Transformer &rarr; N-STEP block &rarr; Feautre Importance and Output 
+**Raw Input Data &rarr; Batch Normalization &rarr; Feature Transformer &rarr; N-STEP block &rarr; Feautre Importance and Output**
 
 The STEP Block is configuration of the following: 
 - Attentive Transformer
