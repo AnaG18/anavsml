@@ -12,6 +12,6 @@ I will attempt to write my goals and the progress will ideally be reflected in t
 
 [**fast.ai course**](https://www.fast.ai) - ![15%](https://progress-bar.dev/15)
 
-**Neural networks and deep learning Coursera course** - ![75%](https://progress-bar.dev/75)
+**Neural networks and deep learning Coursera course** - ![100%](https://progress-bar.dev/100)
 
 **Learning TabNet** - ![10%](https://progress-bar.dev/10)
