@@ -8,7 +8,7 @@ called [Robotics Institute Summer Scholars (RISS)](https://riss.ri.cmu.edu/). It
 
 This is also the first Biomedical Engineering Conference I attend so I am really excited! 
 
-Not that it really matters, but I present at the 24th Annual Alberta Biomedical Engineering Conference on Saturday with the 31# poster from 
+Not that it really matters, but I present at the [24th Annual Alberta Biomedical Engineering Conference](https://schulich.ucalgary.ca/biomedical/news-events/annual-alberta-biomedical-engineering-conference) on Saturday with the 31# poster from 
 11 to 12:30. 
 
 One of my main goals with this goal is to practice my writing and vocabulary skills as I often find myself struggling very bad to find
