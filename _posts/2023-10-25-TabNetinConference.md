@@ -17,3 +17,11 @@ the right words to say. So, I will attempt to describe a key component in the re
 ## What the hell is TabNet? 
 
 As far as I can say, with very simple words, TabNet is a Deep Learning architecture for tabular data. 
+Neural netwroks have proven to be super usfeul with data like image and audio (unstructured data), but it hasn't been outstanding while dealing with structured data. This is why 
+TabNet makes a great breakthrough because it achieves really great performance for structured, tabular data while also bringing great interpretability of the decisions it takes. 
+
+The key things I have understood it has are: *Batch Normalization*, *Feature transfomer*, *Attentive transformer* and *Masking*
+
+A very simple diagram the flow of data through TabNet: 
+
+Raw Input Data &rarr; 
